@@ -6,11 +6,11 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "{{ id }}",
-	"name": "{{ name }}",
-	"version": "{{ version }}",
-	"developer": "{{ developer }}",
-	"description": "{{ description }}",
+	"id": "lol.lol",
+	"name": "Test",
+	"version": "v1.0.0",
+	"developer": "SalvadorGVs",
+	"description": "Probando cosas",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
